@@ -1,0 +1,29 @@
+Logic Simulator
+Copyright (c) 2025 Raoul Origa
+All rights reserved.
+
+Permission is hereby granted to any person to download, install, and use
+this software free of charge, for personal or educational purposes.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+You may NOT:
+- Sell, rent, or commercially sublicense this software.
+- Redistribute modified versions without permission.
+- Remove or alter copyright notices.
+- Decompile, reverse engineer, or reuse code in your own closed-source projects.
+
+You MAY:
+- Download and use the program for free.
+- Share unmodified copies of the program.
+- Use screenshots or recordings of the program.
+- Use the program for education, school, learning, research, or hobby projects.
+
+This license does NOT apply to third-party libraries included with the project.
+See THIRD_PARTY_LICENSES.txt for details.
