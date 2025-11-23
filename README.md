@@ -1,6 +1,6 @@
 # 🧠 Logic Simulator
 
-![Logic Simulator Banner](assets/banner.png)  
+![Logic Simulator Banner](assets/video.gif)  
 *A fun, interactive logic circuit simulator to learn the basics of digital logic!*
 
 ---
