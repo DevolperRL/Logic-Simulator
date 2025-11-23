@@ -30,11 +30,8 @@ This project is **purely educational and for fun**. It’s not intended for prof
 
 ## 🖼️ Screenshots / Demo
 
-**Example layout:**  
-![Simulator Example](assets/screenshot1.png)  
-
 **Real-time output:**  
-![Output Example](assets/screenshot2.png)  
+![Output Example](asset/SS2)  
 
 ---
 
