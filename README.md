@@ -41,4 +41,4 @@ This project is **purely educational and for fun**. It’s not intended for prof
 
 ```bash
 git clone https://github.com/DevolperRL/Logic-Simulator.git
-cd logic-simulator
+cd Logic-Simulator
