@@ -36,8 +36,6 @@ This project is **purely educational and for fun**. It’s not intended for prof
 **Real-time output:**  
 ![Output Example](assets/screenshot2.png)  
 
-*(Tip: Add images in an `assets/` folder and link them here.)*
-
 ---
 
 ## 🛠️ Installation / Running Locally
