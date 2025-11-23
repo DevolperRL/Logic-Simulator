@@ -31,7 +31,7 @@ This project is **purely educational and for fun**. It’s not intended for prof
 ## 🖼️ Screenshots / Demo
 
 **Real-time output:**  
-![Output Example](asset/SS2)  
+![Output Example](asset/SS2.png)  
 
 ---
 
